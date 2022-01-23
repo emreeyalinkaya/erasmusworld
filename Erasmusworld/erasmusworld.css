@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    margin: 0px 100px 100px 100px;
+}
+
+.floating{
+width: 500px;
+margin: 50px 100px 50px 100px;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: burlywood;
+}
+li a{
+    text-decoration:none;
+    color:white;
+    padding-right:32px;
+    padding-left:32px;
+    font-size:20px;
+    display:block;
+    line-height:60px;
+    float:left;
+    }
+
+    .action {
+        color:white;
+        display:block;
+        background-color: cadetblue;
+        margin: 0px 50px 0px 100px;
+
+
+
+
+    }
+    body{
+        background-color: rgb(218, 196, 238);
+    }
+    a:hover{
+        background-color: cadetblue;
+    }
+
+    audio {
+        width: 300px;
+    height: 54px;
+    margin: 50px 100px 50px 100px;
+    display: block;
+
+    }
